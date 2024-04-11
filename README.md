@@ -2,6 +2,9 @@
 
 Welcome to my Treemaps Visualization project! This tool is designed to visually represent hierarchical data through the concept of treemaps, allowing for interactive exploration of complex structures such as file systems and academic paper categorizations.
 
+## Final marks
+I got 89 percent on the code (fixed delete_self()) where the test cases failed), lost marks on papers.py pyta (the alternate papers.py file is better). Other than that the code is perfectly fine 
+
 ## Project Objectives
 
 Through this project, I aimed to achieve the following:
